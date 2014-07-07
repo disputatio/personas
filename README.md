@@ -1,15 +1,20 @@
 Personas
 ---
 
-
 This is our repo of personas to understand our users and to relate them to our feature planning.
 
 - [Laura Klein](https://github.com/disputatio/personas/blob/master/laura_klein.md), the recently appointed university teacher
-- Peter Norgaard, the public intelectual
+- [Luís da Silva](https://github.com/disputatio/personas/blob/master/luis_silva.md), the journalist, maybe blogger
+- [Peter Norgaard](https://github.com/disputatio/personas/blob/master/peter_norgaard.md), the public intelectual
+
 - Camila Ribeiro, the local connector
 - ?, the conservative sharer
 - ?, the liberal sharer
 - ?, the avid reader
+
+
+
+***
 
 Some good refs:
 
@@ -18,6 +23,3 @@ Some good refs:
 [http://marketingbeforefunding.com/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup]()
 
 [http://heidicohen.com/marketing-persona/]()
-
-
-
