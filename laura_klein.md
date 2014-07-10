@@ -38,3 +38,7 @@ She wants to use the potential of the web for learning, and also as a tool where
 **Needs/wants**
 
 Laura wants something easy to use, share, and use as example in classes, or she wouldn’t go for it. Obviously, it should feature great content. It should preserve some academic rigor, but also be relatable to life outside academia, since she wants to connect with people.
+
+**Engangement to Perspectiva**
+
+Laura has a contract with a press to launch her first book. She expects that Perspectiva can help her spread the word about her book together with a brief idea of her thoughts.
