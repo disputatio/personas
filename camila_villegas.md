@@ -13,7 +13,7 @@ Camila Villegas
 
 *Family life* - In a relationship.
 
-*Likes and dislikes* - TODO
+*Likes and dislikes* - She likes to discuss her city issues with fellow people from Bogotá, and enjoy its various cultural and leisure sposts. She doesn't like big money politics or partisan politics. She likes discussion and decisions coming from the public.
 
 *Adoption Curve* - Early majority for internet services.
 
@@ -21,7 +21,7 @@ Camila Villegas
 
 Camila graduated in Economics and always wanted to be involved in politics, but not the usual one. She got involved in many groups in her youth, and decided to create a non-partizan initiative to improve her beloved city, Bogotá. This movements seeks to foster civilian participation and debate with politicians.
 
-*Job Title* - News Editor
+*Job Title* - Activist, Local connector
 
 **Technical Background**
 
@@ -29,12 +29,16 @@ She's well acquainted with social networks and internet overall. She reads all l
 
 **Quote**
 
-She would use Disputatio as a platform for quality local debates, like "Should Bogota prohibit cars in the center?". She may work, or find someone in her group to work as an editor for such debates.
+She would use Perspectiva as a platform for quality local debates, like "Should Bogota prohibit cars in the center?". She may work, or find someone in her group to work as an editor for such debates.
 
 **Goals**
 
 To increase the visibility of local issues and to make traditional politicians to get more involved in talking to the population.
 
 **Needs/Wants**
+
+She needs a platform where she can improve participation in Bogotá through discussions and debates. She wants to do that by exposing different points of view than what people may get on mainstream media, in quality debates. She is interested in local, practical subjects.
+
+**Engagement to Perspectiva**
 
 TODO
