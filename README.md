@@ -9,7 +9,7 @@ This is our repo of personas to understand our users and to relate them to our f
 
 - [Peter Norgaard](https://github.com/disputatio/personas/blob/master/peter_norgaard.md), the public intelectual
 
-- Camila Ribeiro, the local connector
+- [Camila Villegas](https://github.com/disputatio/personas/blob/master/camila_villegas.md), the local connector
 
 - ?, the conservative sharer
 
