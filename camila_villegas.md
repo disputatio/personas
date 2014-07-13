@@ -41,4 +41,4 @@ She needs a platform where she can improve participation in Bogotá through disc
 
 **Engagement to Perspectiva**
 
-TODO
+She expects Perspectiva to help spread the world of the local group of urban changes/discussions she currently engages in. She also expects it to provide good changes to Bogotá, and to call more people to her group.
