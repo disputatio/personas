@@ -3,13 +3,13 @@ Personas
 
 This is our repo of personas to understand our users and to relate them to our feature planning.
 
-- [Laura Klein](https://github.com/disputatio/personas/blob/master/laura_klein.md), the recently appointed university teacher
+- [Laura Klein](https://github.com/perspectiva-io/personas/blob/master/laura_klein.md), the recently appointed university teacher
 
-- [Luís da Silva](https://github.com/disputatio/personas/blob/master/luis_silva.md), the editor and digital journalist
+- [Luís da Silva](https://github.com/perspectiva-io/personas/blob/master/luis_silva.md), the editor and digital journalist
 
-- [Peter Norgaard](https://github.com/disputatio/personas/blob/master/peter_norgaard.md), the public intelectual
+- [Peter Norgaard](https://github.com/perspectiva-io/personas/blob/master/peter_norgaard.md), the public intelectual
 
-- [Camila Villegas](https://github.com/disputatio/personas/blob/master/camila_villegas.md), the local connector
+- [Camila Villegas](https://github.com/perspectiva-io/personas/blob/master/camila_villegas.md), the local connector
 
 - ?, the conservative sharer
 
