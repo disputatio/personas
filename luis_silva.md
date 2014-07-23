@@ -27,7 +27,7 @@ He uses email a lot, everyday. Also uses social networks - mainly Twitter and Fa
 
 **Quote**
 
-Luís likes the idea of Disputatio, since he likes the web, and technology, and online debates. He usually does that through blog posts. Maybe he would use it, he is just not sure yet if the tool will work out. Also, he has a very busy schedule, so he is not sure if he will come back after the first visit. It has to prove its value.
+Luís likes the idea of Perspectiva, since he likes the web, and technology, and online debates. He usually does that through blog posts. Maybe he would use it, he is just not sure yet if the tool will work out. Also, he has a very busy schedule, so he is not sure if he will come back after the first visit. It has to prove its value.
 
 **Goals**
 
